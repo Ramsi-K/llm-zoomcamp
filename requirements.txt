@@ -1,0 +1,11 @@
+openai
+tqdm
+notebook
+pandas
+scikit-learn
+ipywidgets
+qdrant-client
+requests
+python-docx
+minsearch
+elasticsearch==8.13.0
