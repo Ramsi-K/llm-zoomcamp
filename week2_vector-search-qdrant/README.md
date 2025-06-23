@@ -1,4 +1,4 @@
-# Vector Search 
+# Vector Search
 
 ## 2.1 Getting Started with Vector Search and Qdrant
 
@@ -6,10 +6,9 @@
   <img src="https://markdown-videos-api.jorgenkh.no/youtube/cX2vO1q2BGE">
 </a>
 
-Links: 
+Links:
 
-* Notebook: [sematic_search.ipynb](sematic_search.ipynb)
-
+- Notebook: [sematic_search.ipynb](sematic_search.ipynb)
 
 Install qdrant and fastembed:
 
@@ -27,20 +26,17 @@ docker run -p 6333:6333 -p 6334:6334 \
    qdrant/qdrant
 ```
 
-
 ## 2.2 Embedding Text Data
 
 <a href="https://www.youtube.com/watch?v=4lX6sbdrs84&list=PL3MmuxUbc_hIB4fSqLy_0AfTjVLpgjV3R">
   <img src="https://markdown-videos-api.jorgenkh.no/youtube/4lX6sbdrs84">
 </a>
 
-
 ## 2.3 Indexing
 
 <a href="https://www.youtube.com/watch?v=TM5WxZ9EqoQ&list=PL3MmuxUbc_hIB4fSqLy_0AfTjVLpgjV3R">
   <img src="https://markdown-videos-api.jorgenkh.no/youtube/TM5WxZ9EqoQ">
 </a>
-
 
 ## 2.4 Search
 
@@ -54,10 +50,10 @@ docker run -p 6333:6333 -p 6334:6334 \
   <img src="https://markdown-videos-api.jorgenkh.no/youtube/ZV905K81sE4">
 </a>
 
-Links: 
+Links:
 
-* Starter notebook: [rag-starter.ipynb](rag-starter.ipynb)
-* Finished notebook: [rag.ipynb](rag.ipynb) 
+- Starter notebook: [rag-starter.ipynb](rag-starter.ipynb)
+- Finished notebook: [rag.ipynb](rag.ipynb)
 
 ## 2.6 Hybrid Search
 
@@ -65,18 +61,15 @@ Links:
   <img src="https://markdown-videos-api.jorgenkh.no/youtube/ZdbIk8AltDU">
 </a>
 
-
 Links:
 
-* Notebook: [hybrid_search.ipynb](hybrid_search.ipynb)
-
+- Notebook: [hybrid_search.ipynb](hybrid_search.ipynb)
 
 ## Homework
 
 See [here](../cohorts/2025/02-vector-search/homework.md)
 
-
 # Notes
 
-* Notes from [2024 edition](../cohorts/2024/03-vector-search/)
-* Did you take notes? Add them above this line (Send a PR with *links* to your notes)
+- Notes from [2024 edition](../cohorts/2024/03-vector-search/)
+- Did you take notes? Add them above this line (Send a PR with _links_ to your notes)
