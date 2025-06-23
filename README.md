@@ -24,14 +24,20 @@ I’ll be completing the course in an accelerated format over several days, cove
 .
     ├── README.md # This file
     ├── lecture_notes.md # Key takeaways from course videos
-    ├── week1_intro/ # Homework 1 - Basic RAG pipeline
+    ├── week1_intro-LLMs-and-RAG/ # Homework 1 - Basic RAG pipeline
     ├── week2_vector_search/ # Homework 2 - Vector DBs & Qdrant
     ├── week3_evaluation/ # Homework 3 - Retrieval evaluation
     ├── week4_monitoring/ # Homework 4 - Monitoring & feedback
     └── issues/ # GitHub issues for each HW assignment
 ```
 
-Final project is in a separate repo: [**LLM-RAG-on-AWS**](https://github.com/yourusername/llm-rag-on-aws)
+Final project is in a separate repo: [TODO]
+
+Each module folder contains:
+
+- Official starter code from the Zoomcamp repo
+- My completed notebook submissions
+- Any extra notes or experiments I tried
 
 ## 🗓️ Weekly Homework Plan
 
@@ -63,10 +69,11 @@ The final build is a **custom RAG pipeline over AWS documentation**. The idea is
 
 Live repo: TODO
 
-## 📝 Notes
+## ⚡ Notes
 
 - Each week’s progress tracked via GitHub Issues
 - Commit messages follow: `hwX: short description`
+- This is a **course repo**, not a standalone project. My applied LLM/RAG projects are in a separate portfolio repo. [TODO]
 
 ---
 
